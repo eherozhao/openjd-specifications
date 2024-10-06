@@ -1,6 +1,6 @@
 # How Jobs Are Run
 
-Before reading this we recommend diving into [How Jobs Are Constructed](How-Jobs-Are-Constructed).
+Before reading this we recommend diving into [How Jobs Are Constructed](How-Jobs-Are-Constructed.md).
 
 ## Sessions
 
